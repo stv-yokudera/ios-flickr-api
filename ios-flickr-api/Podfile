@@ -1,0 +1,17 @@
+platform :ios, '10.0'
+use_frameworks!
+
+target 'ios-flickr-api' do
+
+  # Pods for ios-flickr-api
+  pod 'Alamofire', '4.5.1'
+  pod 'ObjectMapper', '3.0.0'
+  pod 'SVProgressHUD', '2.2.2'
+  pod 'Kingfisher', '4.1.0'
+
+  target 'ios-flickr-apiTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

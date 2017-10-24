@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  ios-flickr-api
+
+  Created by OkuderaYuki on 2017/10/16.
+  Copyright © 2017年 OkuderaYuki. All rights reserved.
+*/
+
+"ALERT_OK" = "OK";
+
+"PHOTOLIST_LOADING" = "読み込み中...";
+"PHOTOLIST_NODATA" = "該当する写真がありません。検索ワードを変更してお試しください。";
+"PHOTOLIST_OFFLINE" = "ネットワーク環境の良い環境で再度お試しください。";
+"PHOTOLIST_ERROR" = "エラーが発生しました。\n再度お試しください。";
